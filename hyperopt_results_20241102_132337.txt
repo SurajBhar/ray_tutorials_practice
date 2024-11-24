@@ -1,0 +1,2 @@
+2024-11-02 17:12:32,312 [INFO] Best trial config: {'epochs': 10, 'learning_rate': 0.0036743318111, 'optimizer': 'Adam', 'scheduler': 'StepLR', 'start_lr': None, 'use_gpu': True, 'weight_decay': 1.60905665e-05, 'gamma': 0.2864538646952, 'step_size': 15}
+2024-11-02 17:12:32,314 [INFO] Best trial final validation accuracy: 0.9839999675750732
