@@ -1,6 +1,6 @@
-# Bayesian Optimization for Hyperparameter Tuning
+# Hyperparameter Tuning using RayTune
 
-This repository implements a Bayesian Optimization workflow for hyperparameter tuning using the Ray Tune framework and ConfigSpace for configuration management. The implementation supports advanced scheduling and search algorithms, including the **BOHB (Bayesian Optimization with HyperBand)** scheduler.
+This repository implements a workflow for hyperparameter tuning using the Ray Tune framework and ConfigSpace for configuration management. The implementation supports advanced scheduling and search algorithms, including the **BOHB (Bayesian Optimization with HyperBand) and ASHA** schedulers.
 
 ![Learning Rate Selection Over Iterations](/HO_LR_1.PNG)
 ![Convergence of Validation Accuracy Over Iterations](/Convergence_val_acc.PNG)
@@ -20,7 +20,7 @@ This repository implements a Bayesian Optimization workflow for hyperparameter t
 
 ## Features
 
-1. **Bayesian Optimization with BOHB**:
+1. **Hyperparameter Optimization**:
    - Efficient hyperparameter search.
    - Dynamic resource allocation for trials.
 
