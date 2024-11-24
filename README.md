@@ -29,8 +29,7 @@ This repository implements a Bayesian Optimization workflow for hyperparameter t
    - Easily extendable using Hydra and ConfigSpace.
 
 3. **Metrics Monitoring**:
-   - Integration with **TensorBoard** and **Weights & Biases (W&B)** for real-time performance tracking.
-   - AUROC, confusion matrix, precision, recall, F1-score, and balanced accuracy evaluation.
+   - Integration with **TensorBoard** for real-time performance tracking.
 
 4. **Supports Imbalanced Datasets**:
    - Metrics tailored for imbalanced datasets to ensure robust evaluation.
