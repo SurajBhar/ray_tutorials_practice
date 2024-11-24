@@ -11,7 +11,6 @@ This repository implements a workflow for hyperparameter tuning using the Ray Tu
 ## Table of Contents
 
 - [Features](#features)
-- [Configuration](#configuration)
 - [Dependencies](#dependencies)
 - [Contact](#contact)
 - [License](#license)
